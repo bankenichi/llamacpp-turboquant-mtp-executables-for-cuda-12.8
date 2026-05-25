@@ -1,0 +1,52 @@
+{
+  "default": {
+    "model": "C:\\Program Files\\llamacpp\\Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-I-Compact.gguf",
+    "mmproj": "C:\\Program Files\\llamacpp\\mmproj.gguf",
+    "ctx-size": "262144",
+    "n-gpu-layers": "999",
+    "n-cpu-moe": "28",
+    "keep": "-1",
+    "parallel": "1",
+    "port": "8081",
+    "spec-draft-n-max": "2",
+    "cache-type-k": "turbo4",
+    "cache-type-v": "turbo3",
+    "spec-type": "mtp",
+    "mlock": true,
+    "mmap": false,
+    "jinja": true,
+    "context-shift": true
+  },
+  "Qwen3.6 35b a3b 16gb optimized": {
+    "model": "C:\\Program Files\\llamacpp\\Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-I-Compact.gguf",
+    "mmproj": "C:\\Program Files\\llamacpp\\mmproj.gguf",
+    "ctx-size": "262144",
+    "n-gpu-layers": "999",
+    "n-cpu-moe": "28",
+    "keep": "-1",
+    "parallel": "1",
+    "port": "8081",
+    "spec-draft-n-max": "2",
+    "cache-type-k": "turbo4",
+    "cache-type-v": "turbo3",
+    "spec-type": "mtp",
+    "mlock": true,
+    "mmap": false,
+    "jinja": true,
+    "context-shift": true
+  },
+  "SillyTavern": {
+    "model": "D:\\SillyTavern\\SillyTavern\\models\\Violet-Lyra-Gutenberg-v2.i1-Q4_K_M.gguf",
+    "ctx-size": "8192",
+    "n-gpu-layers": "-1",
+    "parallel": "1",
+    "port": "8081",
+    "cache-type-k": "q8_0",
+    "cache-type-v": "q8_0",
+    "mlock": true,
+    "context-shift": true,
+    "fit": "on",
+    "checkpoint-every-n-tokens": "2068",
+    "cache-reuse": "2068"
+  }
+}

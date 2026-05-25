@@ -1,0 +1,1 @@
+--cache-type-k turbo4 --cache-type-v turbo3 --context-shift --ctx-size 262144 --jinja --keep -1 --mlock --no-mmap --mmproj "C:\Program Files\llamacpp\mmproj.gguf" --model "C:\Program Files\llamacpp\Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-I-Compact.gguf" --n-cpu-moe 28 --n-gpu-layers 999 --parallel 1 --port 8081 --spec-draft-n-max 2 --spec-type mtp
