@@ -1,3 +1,6 @@
 Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-MTP-I-Compact.gguf
 mmproj.gguf
 llama-config-ui/
+mmproj-F16.gguf
+llama-config-ui
+llama-args.txt
